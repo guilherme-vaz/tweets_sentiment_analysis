@@ -6,4 +6,4 @@
 <p>Using RandomForest algorithm for training and test. The data used is composed by political tweets previously classified.</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------
-<p><a href="https://github.com/guilherme-vaz/tweets_sentiment_analysis/blob/main/Abordagem%20Supervisonada%20-%20RandomForest.ipynb">Notebook.</a></p>
+<p><a href="https://github.com/guilherme-vaz/tweets_sentiment_analysis/blob/main/Abordagem%20Supervisonada%20-%20RandomForest.ipynb">Jupyter Notebook.</a></p>
